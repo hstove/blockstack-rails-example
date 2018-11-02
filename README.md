@@ -1,24 +1,5 @@
-# README
+# Rails with Blockstack Example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository is a sample Ruby on Rails application with Blockstack authentication integrated.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It's built for learning purposes, and we've included [a tutorial](./tutorial.md) to teach you how you can use Blockstack Authentication in your own rails application.
